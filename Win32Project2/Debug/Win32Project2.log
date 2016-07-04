@@ -1,0 +1,4 @@
+﻿  test.c
+c:\users\canursey\documents\visual studio 2015\projects\win32project2\win32project2\test.c(12): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+c:\users\canursey\documents\visual studio 2015\projects\win32project2\win32project2\test.c(12): warning C4024: 'MessageBoxW': different types for formal and actual parameter 4
+  Win32Project2.vcxproj -> c:\users\canursey\documents\visual studio 2015\Projects\Win32Project2\Debug\Win32Project2.exe
